@@ -1,1 +1,1 @@
-create database 'bllslls'
+create database 'bcp_db'
